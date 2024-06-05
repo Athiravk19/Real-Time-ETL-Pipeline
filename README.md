@@ -1,0 +1,2 @@
+# Real-Time-ETL-Pipeline-API-to-Kafka-to-Spark-to-Postgres
+This project demonstrates a real-time ETL (Extract, Transform, Load) pipeline that ingests data from an external API, processes it using Kafka and Spark, and finally stores it in a Postgres database. The pipeline is designed to handle continuous data streams efficiently, making it suitable for scenarios where data needs to be processed in real-time
